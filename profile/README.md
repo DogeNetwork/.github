@@ -1,5 +1,17 @@
+<div align="center">
 <h2>Doge Unblocker</h2>
-<p>Doge Unblocker is the ultimate solution for unblocking sites, designed exclusively for students. We take immense pride in providing you with an unparalleled proxy service that is unrivaled in speed, security, and reliability.</p>
-<h3>Join our community for more proxy links!</h3>
+<p>The blazing-fast site unblocker designed specifically for students. We take pride in providing you with a powerful proxy service that is unrivaled in speed and reliability.</p>
+
+
+Our repository can be found **[here.](https://github.com/DogeNetwork/v4)**
+
+
+<h3>New to our service?</h3>
+Join our Discord below to recieve free links and discover tons of computer bypasses, hacks, and more within the server.
+<br>
+
+<br>
+
 
 [![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
+</div>
