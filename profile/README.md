@@ -1,17 +1,14 @@
-<div align="center">
-<h2>Doge Unblocker</h2>
-<p>The blazing-fast site unblocker designed specifically for students. We take pride in providing you with a powerful proxy service that is unrivaled in speed and reliability.</p>
+<div>
+<h2>SalyteDev</h2>
+<p>We are a group that makes the internet a better place by creating free tools and services for others to use.</p>
+<p>We are planning to make more projects soon</p>
 
-
-Our repository can be found **[here.](https://github.com/DogeNetwork/v4)**
-
-
-<h3>New to our service?</h3>
-Join our Discord below to recieve free links and discover tons of computer bypasses, hacks, and more within the server.
+<h3>Projects</h3>
+Below is a list of our existing projects.
 <br>
 
 <br>
 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
+**[Doge Unblocker](https://github.com/DogeNetwork/v4)** - A web proxy that provides access to the full range of internet content.
 </div>
