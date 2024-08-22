@@ -1,14 +1,17 @@
-<div>
-<h2>SalyteDev</h2>
-<p>We are a group that makes free tools and services for others to use.</p>
-<p>Formerly known as DogeNetwork, we are planning to create more projects and tools, hence the new name.</p>
+<div align="center">
+<h2>Doge Unblocker</h2>
+<p>The blazing-fast site unblocker designed specifically for students. We take pride in providing you with a powerful proxy service that is unrivaled in speed and reliability.</p>
 
-<h3>Projects</h3>
-Below is a list of our existing projects.
+
+Our repository can be found **[here.](https://github.com/DogeNetwork/v4)**
+
+
+<h3>New to our service?</h3>
+Join our Discord below to recieve free links and discover tons of computer bypasses, hacks, and more within the server.
 <br>
 
 <br>
 
 
-**[Doge Unblocker](https://github.com/DogeNetwork/v4)** - A web proxy that provides access to the full range of internet content, powered by Ultraviolet.
+[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
 </div>
