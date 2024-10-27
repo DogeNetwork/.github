@@ -1,17 +1,16 @@
-<div align="center">
-<h2>Doge Unblocker</h2>
-<p>The blazing-fast site unblocker designed specifically for students. We take pride in providing you with a powerful proxy service that is unrivaled in speed and reliability.</p>
+**[@DogeNetwork](https://github.com/DogeNetwork) | [Discord Invite](https://discord.com/unblocking) | [Contact](mailto:support@surfdoge.pro) | [FAQ](https://github.com/DogeNetwork/.github/blob/main/profile/FAQ.md)**
+<p>Welcome to our organization page. We are a group that provides free open-source services that help users around the world browse the web privately and securely, and ending internet censorship.</p>
 
 
-Our repository can be found **[here.](https://github.com/DogeNetwork/v4)**
+**Popular Services:**
+<pre>
+<strong><a href="https://github.com/dogenetwork/v4">Doge Unblocker</a></strong> - An open-source web proxy frontend using <a href="https://github.com/titaniumnetwork-dev/Ultraviolet">Ultraviolet</a> allowing private & uncensored browsing
+</pre>
 
 
-<h3>New to our service?</h3>
-Join our Discord below to recieve free links and discover tons of computer bypasses, hacks, and more within the server.
-<br>
-
-<br>
 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
-</div>
+#### Discord Invite:
+
+
+![](https://dcbadge.limes.pink/api/server/https://discord.gg/unblocking)
