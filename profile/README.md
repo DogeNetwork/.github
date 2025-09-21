@@ -4,7 +4,7 @@
 
 **Popular Services:**
 <pre>
-<strong><a href="https://github.com/dogenetwork/v4">Doge Unblocker</a></strong> - An open-source web proxy frontend using <a href="https://github.com/titaniumnetwork-dev/Ultraviolet">Ultraviolet</a> allowing private & uncensored browsing
+<strong><a href="https://github.com/dogenetwork/dogeub">dogeub V5</a></strong> - An open-source browsing hub frontend allowing for private surfing & access to the unblocked web.
 </pre>
 
 
